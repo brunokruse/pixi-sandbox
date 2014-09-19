@@ -1,0 +1,60 @@
+{ "frames": {
+
+"attack1.png": {
+	"frame": {"x":2,"y":171,"w":54,"h":63},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":54,"h":63},
+	"sourceSize": {"w":54,"h":63}
+},
+"attack2.png": {
+	"frame": {"x":2,"y":2,"w":87,"h":56},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":87,"h":56},
+	"sourceSize": {"w":87,"h":56}
+},
+"attack3.png": {
+	"frame": {"x":2,"y":60,"w":84,"h":47},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":84,"h":47},
+	"sourceSize": {"w":84,"h":47}
+},
+"stand1.png": {
+	"frame": {"x":2,"y":109,"w":72,"h":60},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":72,"h":60},
+	"sourceSize": {"w":72,"h":60}
+},
+"walk1.png": {
+	"frame": {"x":91,"y":2,"w":44,"h":60},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":44,"h":60},
+	"sourceSize": {"w":44,"h":60}
+},
+"walk2.png": {
+	"frame": {"x":137,"y":2,"w":46,"h":57},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":46,"h":57},
+	"sourceSize": {"w":46,"h":57}
+},
+"walk3.png": {
+	"frame": {"x":137,"y":61,"w":43,"h":56},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":43,"h":56},
+	"sourceSize": {"w":43,"h":56}
+}
+},
+"meta": {
+	"app": "http://www.mokgames.com/texturepacker/",
+	"version": "1.0",
+	"image": "spritesheet.png",
+	"format": "RGBA8888",
+	"size": {"w":256,"h":256},
+	"scale": 1
+}}

@@ -1,0 +1,100 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+	<title>Movie Clips</title>
+	<style>
+		body {
+			margin: 0;
+			padding: 0;
+			background-color: #FFF;
+		}
+		canvas {
+			border: 1px solid red;
+		}
+	</style>
+	<script src="js/pixi.js"></script>
+</head>
+<body>
+	<script>
+
+	// init
+	var canvasWidth = 800;
+	var canvasHeight = 600;
+	var animationSpeed = 0.5;
+
+	// create an array of assets to load
+	var assetsToLoader = [ "sprites/spritesheet.json"];
+
+	// create a new loader
+	loader = new PIXI.AssetLoader(assetsToLoader);
+
+	// use callback
+	loader.onComplete = onAssetsLoaded;
+
+	//begin load
+	loader.load();
+
+	// create an new instance of a pixi stage
+	var stage = new PIXI.Stage(0xFFFFFF);
+
+	// create a renderer instance.
+	renderer = PIXI.autoDetectRenderer(canvasWidth, canvasHeight);
+
+	// add the renderer view element to the DOM
+	document.body.appendChild(renderer.view);
+
+	function onAssetsLoaded()
+	{
+		// create an array to store the textures
+		var animationTextures = []; // our movie clip
+
+		// loop through the frames
+		for (var i = 0; i < 100; i++) {
+			var val = i < 10 ? "0" + i : i;
+			console.log("val: " + val);
+			animationTextures.push(PIXI.Texture.fromFrame("plops_0" + val + ".png"));
+		};
+
+		// create instances of the movie clip
+		for (var i = 0; i < 200; i++)
+		{
+			// create a movieclip
+			var testSprite = new PIXI.MovieClip(animationTextures);
+
+			testSprite.position.x = Math.random() * canvasWidth;
+			testSprite.position.y = Math.random() * canvasHeight;
+			testSprite.anchor.x = 0.5;
+			testSprite.anchor.y = 0.5;
+
+			testSprite.rotation = Math.random() * Math.PI;
+			testSprite.scale.x = testSprite.scale.y = 1.0 + Math.random() * 0.5;
+			testSprite.animationSpeed = animationSpeed;
+			testSprite.gotoAndPlay(Math.random() * 120);
+
+			stage.addChild(testSprite); // finally add to stage
+		}
+
+		// start animating
+		requestAnimFrame( animate );
+	}
+
+	function animate() {
+	    renderer.render(stage);
+
+	    requestAnimFrame(animate);
+	}
+
+	</script>
+
+	<form>
+
+	</body>
+
+	<div id="message">200 movieclip animations</div>
+
+	<br />
+	<br />
+
+	<img src="sprites/spritesheet.png"></img>
+
+</html>

@@ -1,0 +1,2535 @@
+{
+    "frames": {
+        "plops_000.png": {
+            "frame": {
+                "x": 2,
+                "y": 2,
+                "w": 88,
+                "h": 88
+            },
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 88,
+                "h": 88
+            },
+            "sourceSize": {
+                "w": 88,
+                "h": 88
+            }
+        },
+        "plops_002.png": {
+            "frame": {
+                "x": 2,
+                "y": 92,
+                "w": 88,
+                "h": 88
+            },
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 88,
+                "h": 88
+            },
+            "sourceSize": {
+                "w": 88,
+                "h": 88
+            }
+        },
+        "plops_001.png": {
+            "frame": {
+                "x": 92,
+                "y": 2,
+                "w": 88,
+                "h": 88
+            },
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 88,
+                "h": 88
+            },
+            "sourceSize": {
+                "w": 88,
+                "h": 88
+            }
+        },
+        "plops_007.png": {
+            "frame": {
+                "x": 92,
+                "y": 92,
+                "w": 88,
+                "h": 88
+            },
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 88,
+                "h": 88
+            },
+            "sourceSize": {
+                "w": 88,
+                "h": 88
+            }
+        },
+        "plops_011.png": {
+            "frame": {
+                "x": 2,
+                "y": 182,
+                "w": 88,
+                "h": 88
+            },
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 88,
+                "h": 88
+            },
+            "sourceSize": {
+                "w": 88,
+                "h": 88
+            }
+        },
+        "plops_010.png": {
+            "frame": {
+                "x": 92,
+                "y": 182,
+                "w": 88,
+                "h": 88
+            },
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 88,
+                "h": 88
+            },
+            "sourceSize": {
+                "w": 88,
+                "h": 88
+            }
+        },
+        "plops_012.png": {
+            "frame": {
+                "x": 2,
+                "y": 272,
+                "w": 88,
+                "h": 88
+            },
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 88,
+                "h": 88
+            },
+            "sourceSize": {
+                "w": 88,
+                "h": 88
+            }
+        },
+        "plops_005.png": {
+            "frame": {
+                "x": 92,
+                "y": 272,
+                "w": 88,
+                "h": 88
+            },
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 88,
+                "h": 88
+            },
+            "sourceSize": {
+                "w": 88,
+                "h": 88
+            }
+        },
+        "plops_006.png": {
+            "frame": {
+                "x": 2,
+                "y": 362,
+                "w": 88,
+                "h": 88
+            },
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 88,
+                "h": 88
+            },
+            "sourceSize": {
+                "w": 88,
+                "h": 88
+            }
+        },
+        "plops_008.png": {
+            "frame": {
+                "x": 92,
+                "y": 362,
+                "w": 88,
+                "h": 88
+            },
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 88,
+                "h": 88
+            },
+            "sourceSize": {
+                "w": 88,
+                "h": 88
+            }
+        },
+        "plops_009.png": {
+            "frame": {
+                "x": 182,
+                "y": 2,
+                "w": 88,
+                "h": 88
+            },
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 88,
+                "h": 88
+            },
+            "sourceSize": {
+                "w": 88,
+                "h": 88
+            }
+        },
+        "plops_013.png": {
+            "frame": {
+                "x": 182,
+                "y": 92,
+                "w": 88,
+                "h": 88
+            },
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 88,
+                "h": 88
+            },
+            "sourceSize": {
+                "w": 88,
+                "h": 88
+            }
+        },
+        "plops_014.png": {
+            "frame": {
+                "x": 182,
+                "y": 182,
+                "w": 88,
+                "h": 88
+            },
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 88,
+                "h": 88
+            },
+            "sourceSize": {
+                "w": 88,
+                "h": 88
+            }
+        },
+        "plops_017.png": {
+            "frame": {
+                "x": 182,
+                "y": 272,
+                "w": 88,
+                "h": 88
+            },
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 88,
+                "h": 88
+            },
+            "sourceSize": {
+                "w": 88,
+                "h": 88
+            }
+        },
+        "plops_016.png": {
+            "frame": {
+                "x": 182,
+                "y": 362,
+                "w": 88,
+                "h": 88
+            },
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 88,
+                "h": 88
+            },
+            "sourceSize": {
+                "w": 88,
+                "h": 88
+            }
+        },
+        "plops_015.png": {
+            "frame": {
+                "x": 272,
+                "y": 2,
+                "w": 88,
+                "h": 88
+            },
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 88,
+                "h": 88
+            },
+            "sourceSize": {
+                "w": 88,
+                "h": 88
+            }
+        },
+        "plops_019.png": {
+            "frame": {
+                "x": 272,
+                "y": 92,
+                "w": 88,
+                "h": 88
+            },
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 88,
+                "h": 88
+            },
+            "sourceSize": {
+                "w": 88,
+                "h": 88
+            }
+        },
+        "plops_018.png": {
+            "frame": {
+                "x": 272,
+                "y": 182,
+                "w": 88,
+                "h": 88
+            },
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 88,
+                "h": 88
+            },
+            "sourceSize": {
+                "w": 88,
+                "h": 88
+            }
+        },
+        "plops_022.png": {
+            "frame": {
+                "x": 272,
+                "y": 272,
+                "w": 88,
+                "h": 88
+            },
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 88,
+                "h": 88
+            },
+            "sourceSize": {
+                "w": 88,
+                "h": 88
+            }
+        },
+        "plops_027.png": {
+            "frame": {
+                "x": 272,
+                "y": 362,
+                "w": 88,
+                "h": 88
+            },
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 88,
+                "h": 88
+            },
+            "sourceSize": {
+                "w": 88,
+                "h": 88
+            }
+        },
+        "plops_029.png": {
+            "frame": {
+                "x": 362,
+                "y": 2,
+                "w": 88,
+                "h": 88
+            },
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 88,
+                "h": 88
+            },
+            "sourceSize": {
+                "w": 88,
+                "h": 88
+            }
+        },
+        "plops_028.png": {
+            "frame": {
+                "x": 362,
+                "y": 92,
+                "w": 88,
+                "h": 88
+            },
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 88,
+                "h": 88
+            },
+            "sourceSize": {
+                "w": 88,
+                "h": 88
+            }
+        },
+        "plops_025.png": {
+            "frame": {
+                "x": 362,
+                "y": 182,
+                "w": 88,
+                "h": 88
+            },
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 88,
+                "h": 88
+            },
+            "sourceSize": {
+                "w": 88,
+                "h": 88
+            }
+        },
+        "plops_026.png": {
+            "frame": {
+                "x": 362,
+                "y": 272,
+                "w": 88,
+                "h": 88
+            },
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 88,
+                "h": 88
+            },
+            "sourceSize": {
+                "w": 88,
+                "h": 88
+            }
+        },
+        "plops_031.png": {
+            "frame": {
+                "x": 362,
+                "y": 362,
+                "w": 88,
+                "h": 88
+            },
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 88,
+                "h": 88
+            },
+            "sourceSize": {
+                "w": 88,
+                "h": 88
+            }
+        },
+        "plops_030.png": {
+            "frame": {
+                "x": 2,
+                "y": 452,
+                "w": 88,
+                "h": 88
+            },
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 88,
+                "h": 88
+            },
+            "sourceSize": {
+                "w": 88,
+                "h": 88
+            }
+        },
+        "plops_032.png": {
+            "frame": {
+                "x": 92,
+                "y": 452,
+                "w": 88,
+                "h": 88
+            },
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 88,
+                "h": 88
+            },
+            "sourceSize": {
+                "w": 88,
+                "h": 88
+            }
+        },
+        "plops_023.png": {
+            "frame": {
+                "x": 182,
+                "y": 452,
+                "w": 88,
+                "h": 88
+            },
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 88,
+                "h": 88
+            },
+            "sourceSize": {
+                "w": 88,
+                "h": 88
+            }
+        },
+        "plops_024.png": {
+            "frame": {
+                "x": 272,
+                "y": 452,
+                "w": 88,
+                "h": 88
+            },
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 88,
+                "h": 88
+            },
+            "sourceSize": {
+                "w": 88,
+                "h": 88
+            }
+        },
+        "plops_035.png": {
+            "frame": {
+                "x": 362,
+                "y": 452,
+                "w": 88,
+                "h": 88
+            },
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 88,
+                "h": 88
+            },
+            "sourceSize": {
+                "w": 88,
+                "h": 88
+            }
+        },
+        "plops_036.png": {
+            "frame": {
+                "x": 2,
+                "y": 542,
+                "w": 88,
+                "h": 88
+            },
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 88,
+                "h": 88
+            },
+            "sourceSize": {
+                "w": 88,
+                "h": 88
+            }
+        },
+        "plops_037.png": {
+            "frame": {
+                "x": 92,
+                "y": 542,
+                "w": 88,
+                "h": 88
+            },
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 88,
+                "h": 88
+            },
+            "sourceSize": {
+                "w": 88,
+                "h": 88
+            }
+        },
+        "plops_038.png": {
+            "frame": {
+                "x": 182,
+                "y": 542,
+                "w": 88,
+                "h": 88
+            },
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 88,
+                "h": 88
+            },
+            "sourceSize": {
+                "w": 88,
+                "h": 88
+            }
+        },
+        "plops_039.png": {
+            "frame": {
+                "x": 272,
+                "y": 542,
+                "w": 88,
+                "h": 88
+            },
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 88,
+                "h": 88
+            },
+            "sourceSize": {
+                "w": 88,
+                "h": 88
+            }
+        },
+        "plops_042.png": {
+            "frame": {
+                "x": 362,
+                "y": 542,
+                "w": 88,
+                "h": 88
+            },
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 88,
+                "h": 88
+            },
+            "sourceSize": {
+                "w": 88,
+                "h": 88
+            }
+        },
+        "plops_033.png": {
+            "frame": {
+                "x": 2,
+                "y": 632,
+                "w": 88,
+                "h": 88
+            },
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 88,
+                "h": 88
+            },
+            "sourceSize": {
+                "w": 88,
+                "h": 88
+            }
+        },
+        "plops_034.png": {
+            "frame": {
+                "x": 92,
+                "y": 632,
+                "w": 88,
+                "h": 88
+            },
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 88,
+                "h": 88
+            },
+            "sourceSize": {
+                "w": 88,
+                "h": 88
+            }
+        },
+        "plops_045.png": {
+            "frame": {
+                "x": 182,
+                "y": 632,
+                "w": 88,
+                "h": 88
+            },
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 88,
+                "h": 88
+            },
+            "sourceSize": {
+                "w": 88,
+                "h": 88
+            }
+        },
+        "plops_046.png": {
+            "frame": {
+                "x": 272,
+                "y": 632,
+                "w": 88,
+                "h": 88
+            },
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 88,
+                "h": 88
+            },
+            "sourceSize": {
+                "w": 88,
+                "h": 88
+            }
+        },
+        "plops_048.png": {
+            "frame": {
+                "x": 362,
+                "y": 632,
+                "w": 88,
+                "h": 88
+            },
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 88,
+                "h": 88
+            },
+            "sourceSize": {
+                "w": 88,
+                "h": 88
+            }
+        },
+        "plops_047.png": {
+            "frame": {
+                "x": 2,
+                "y": 722,
+                "w": 88,
+                "h": 88
+            },
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 88,
+                "h": 88
+            },
+            "sourceSize": {
+                "w": 88,
+                "h": 88
+            }
+        },
+        "plops_040.png": {
+            "frame": {
+                "x": 92,
+                "y": 722,
+                "w": 88,
+                "h": 88
+            },
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 88,
+                "h": 88
+            },
+            "sourceSize": {
+                "w": 88,
+                "h": 88
+            }
+        },
+        "plops_041.png": {
+            "frame": {
+                "x": 182,
+                "y": 722,
+                "w": 88,
+                "h": 88
+            },
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 88,
+                "h": 88
+            },
+            "sourceSize": {
+                "w": 88,
+                "h": 88
+            }
+        },
+        "plops_043.png": {
+            "frame": {
+                "x": 272,
+                "y": 722,
+                "w": 88,
+                "h": 88
+            },
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 88,
+                "h": 88
+            },
+            "sourceSize": {
+                "w": 88,
+                "h": 88
+            }
+        },
+        "plops_044.png": {
+            "frame": {
+                "x": 362,
+                "y": 722,
+                "w": 88,
+                "h": 88
+            },
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 88,
+                "h": 88
+            },
+            "sourceSize": {
+                "w": 88,
+                "h": 88
+            }
+        },
+        "plops_050.png": {
+            "frame": {
+                "x": 2,
+                "y": 812,
+                "w": 88,
+                "h": 88
+            },
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 88,
+                "h": 88
+            },
+            "sourceSize": {
+                "w": 88,
+                "h": 88
+            }
+        },
+        "plops_051.png": {
+            "frame": {
+                "x": 92,
+                "y": 812,
+                "w": 88,
+                "h": 88
+            },
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 88,
+                "h": 88
+            },
+            "sourceSize": {
+                "w": 88,
+                "h": 88
+            }
+        },
+        "plops_049.png": {
+            "frame": {
+                "x": 182,
+                "y": 812,
+                "w": 88,
+                "h": 88
+            },
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 88,
+                "h": 88
+            },
+            "sourceSize": {
+                "w": 88,
+                "h": 88
+            }
+        },
+        "plops_052.png": {
+            "frame": {
+                "x": 272,
+                "y": 812,
+                "w": 88,
+                "h": 88
+            },
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 88,
+                "h": 88
+            },
+            "sourceSize": {
+                "w": 88,
+                "h": 88
+            }
+        },
+        "plops_053.png": {
+            "frame": {
+                "x": 362,
+                "y": 812,
+                "w": 88,
+                "h": 88
+            },
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 88,
+                "h": 88
+            },
+            "sourceSize": {
+                "w": 88,
+                "h": 88
+            }
+        },
+        "plops_054.png": {
+            "frame": {
+                "x": 2,
+                "y": 902,
+                "w": 88,
+                "h": 88
+            },
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 88,
+                "h": 88
+            },
+            "sourceSize": {
+                "w": 88,
+                "h": 88
+            }
+        },
+        "plops_059.png": {
+            "frame": {
+                "x": 92,
+                "y": 902,
+                "w": 88,
+                "h": 88
+            },
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 88,
+                "h": 88
+            },
+            "sourceSize": {
+                "w": 88,
+                "h": 88
+            }
+        },
+        "plops_056.png": {
+            "frame": {
+                "x": 182,
+                "y": 902,
+                "w": 88,
+                "h": 88
+            },
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 88,
+                "h": 88
+            },
+            "sourceSize": {
+                "w": 88,
+                "h": 88
+            }
+        },
+        "plops_055.png": {
+            "frame": {
+                "x": 272,
+                "y": 902,
+                "w": 88,
+                "h": 88
+            },
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 88,
+                "h": 88
+            },
+            "sourceSize": {
+                "w": 88,
+                "h": 88
+            }
+        },
+        "plops_058.png": {
+            "frame": {
+                "x": 362,
+                "y": 902,
+                "w": 88,
+                "h": 88
+            },
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 88,
+                "h": 88
+            },
+            "sourceSize": {
+                "w": 88,
+                "h": 88
+            }
+        },
+        "plops_057.png": {
+            "frame": {
+                "x": 452,
+                "y": 2,
+                "w": 88,
+                "h": 88
+            },
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 88,
+                "h": 88
+            },
+            "sourceSize": {
+                "w": 88,
+                "h": 88
+            }
+        },
+        "plops_063.png": {
+            "frame": {
+                "x": 452,
+                "y": 92,
+                "w": 88,
+                "h": 88
+            },
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 88,
+                "h": 88
+            },
+            "sourceSize": {
+                "w": 88,
+                "h": 88
+            }
+        },
+        "plops_062.png": {
+            "frame": {
+                "x": 452,
+                "y": 182,
+                "w": 88,
+                "h": 88
+            },
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 88,
+                "h": 88
+            },
+            "sourceSize": {
+                "w": 88,
+                "h": 88
+            }
+        },
+        "plops_064.png": {
+            "frame": {
+                "x": 452,
+                "y": 272,
+                "w": 88,
+                "h": 88
+            },
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 88,
+                "h": 88
+            },
+            "sourceSize": {
+                "w": 88,
+                "h": 88
+            }
+        },
+        "plops_066.png": {
+            "frame": {
+                "x": 452,
+                "y": 362,
+                "w": 88,
+                "h": 88
+            },
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 88,
+                "h": 88
+            },
+            "sourceSize": {
+                "w": 88,
+                "h": 88
+            }
+        },
+        "plops_065.png": {
+            "frame": {
+                "x": 452,
+                "y": 452,
+                "w": 88,
+                "h": 88
+            },
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 88,
+                "h": 88
+            },
+            "sourceSize": {
+                "w": 88,
+                "h": 88
+            }
+        },
+        "plops_068.png": {
+            "frame": {
+                "x": 452,
+                "y": 542,
+                "w": 88,
+                "h": 88
+            },
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 88,
+                "h": 88
+            },
+            "sourceSize": {
+                "w": 88,
+                "h": 88
+            }
+        },
+        "plops_067.png": {
+            "frame": {
+                "x": 452,
+                "y": 632,
+                "w": 88,
+                "h": 88
+            },
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 88,
+                "h": 88
+            },
+            "sourceSize": {
+                "w": 88,
+                "h": 88
+            }
+        },
+        "plops_060.png": {
+            "frame": {
+                "x": 452,
+                "y": 722,
+                "w": 88,
+                "h": 88
+            },
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 88,
+                "h": 88
+            },
+            "sourceSize": {
+                "w": 88,
+                "h": 88
+            }
+        },
+        "plops_061.png": {
+            "frame": {
+                "x": 452,
+                "y": 812,
+                "w": 88,
+                "h": 88
+            },
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 88,
+                "h": 88
+            },
+            "sourceSize": {
+                "w": 88,
+                "h": 88
+            }
+        },
+        "plops_003.png": {
+            "frame": {
+                "x": 452,
+                "y": 902,
+                "w": 88,
+                "h": 88
+            },
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 88,
+                "h": 88
+            },
+            "sourceSize": {
+                "w": 88,
+                "h": 88
+            }
+        },
+        "plops_004.png": {
+            "frame": {
+                "x": 542,
+                "y": 2,
+                "w": 88,
+                "h": 88
+            },
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 88,
+                "h": 88
+            },
+            "sourceSize": {
+                "w": 88,
+                "h": 88
+            }
+        },
+        "plops_071.png": {
+            "frame": {
+                "x": 542,
+                "y": 92,
+                "w": 88,
+                "h": 88
+            },
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 88,
+                "h": 88
+            },
+            "sourceSize": {
+                "w": 88,
+                "h": 88
+            }
+        },
+        "plops_070.png": {
+            "frame": {
+                "x": 542,
+                "y": 182,
+                "w": 88,
+                "h": 88
+            },
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 88,
+                "h": 88
+            },
+            "sourceSize": {
+                "w": 88,
+                "h": 88
+            }
+        },
+        "plops_072.png": {
+            "frame": {
+                "x": 542,
+                "y": 272,
+                "w": 88,
+                "h": 88
+            },
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 88,
+                "h": 88
+            },
+            "sourceSize": {
+                "w": 88,
+                "h": 88
+            }
+        },
+        "plops_073.png": {
+            "frame": {
+                "x": 542,
+                "y": 362,
+                "w": 88,
+                "h": 88
+            },
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 88,
+                "h": 88
+            },
+            "sourceSize": {
+                "w": 88,
+                "h": 88
+            }
+        },
+        "plops_076.png": {
+            "frame": {
+                "x": 542,
+                "y": 452,
+                "w": 88,
+                "h": 88
+            },
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 88,
+                "h": 88
+            },
+            "sourceSize": {
+                "w": 88,
+                "h": 88
+            }
+        },
+        "plops_075.png": {
+            "frame": {
+                "x": 542,
+                "y": 542,
+                "w": 88,
+                "h": 88
+            },
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 88,
+                "h": 88
+            },
+            "sourceSize": {
+                "w": 88,
+                "h": 88
+            }
+        },
+        "plops_079.png": {
+            "frame": {
+                "x": 542,
+                "y": 632,
+                "w": 88,
+                "h": 88
+            },
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 88,
+                "h": 88
+            },
+            "sourceSize": {
+                "w": 88,
+                "h": 88
+            }
+        },
+        "plops_069.png": {
+            "frame": {
+                "x": 542,
+                "y": 722,
+                "w": 88,
+                "h": 88
+            },
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 88,
+                "h": 88
+            },
+            "sourceSize": {
+                "w": 88,
+                "h": 88
+            }
+        },
+        "plops_074.png": {
+            "frame": {
+                "x": 542,
+                "y": 812,
+                "w": 88,
+                "h": 88
+            },
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 88,
+                "h": 88
+            },
+            "sourceSize": {
+                "w": 88,
+                "h": 88
+            }
+        },
+        "plops_082.png": {
+            "frame": {
+                "x": 542,
+                "y": 902,
+                "w": 88,
+                "h": 88
+            },
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 88,
+                "h": 88
+            },
+            "sourceSize": {
+                "w": 88,
+                "h": 88
+            }
+        },
+        "plops_083.png": {
+            "frame": {
+                "x": 632,
+                "y": 2,
+                "w": 88,
+                "h": 88
+            },
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 88,
+                "h": 88
+            },
+            "sourceSize": {
+                "w": 88,
+                "h": 88
+            }
+        },
+        "plops_084.png": {
+            "frame": {
+                "x": 632,
+                "y": 92,
+                "w": 88,
+                "h": 88
+            },
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 88,
+                "h": 88
+            },
+            "sourceSize": {
+                "w": 88,
+                "h": 88
+            }
+        },
+        "plops_078.png": {
+            "frame": {
+                "x": 632,
+                "y": 182,
+                "w": 88,
+                "h": 88
+            },
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 88,
+                "h": 88
+            },
+            "sourceSize": {
+                "w": 88,
+                "h": 88
+            }
+        },
+        "plops_077.png": {
+            "frame": {
+                "x": 632,
+                "y": 272,
+                "w": 88,
+                "h": 88
+            },
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 88,
+                "h": 88
+            },
+            "sourceSize": {
+                "w": 88,
+                "h": 88
+            }
+        },
+        "plops_088.png": {
+            "frame": {
+                "x": 632,
+                "y": 362,
+                "w": 88,
+                "h": 88
+            },
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 88,
+                "h": 88
+            },
+            "sourceSize": {
+                "w": 88,
+                "h": 88
+            }
+        },
+        "plops_087.png": {
+            "frame": {
+                "x": 632,
+                "y": 452,
+                "w": 88,
+                "h": 88
+            },
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 88,
+                "h": 88
+            },
+            "sourceSize": {
+                "w": 88,
+                "h": 88
+            }
+        },
+        "plops_086.png": {
+            "frame": {
+                "x": 632,
+                "y": 542,
+                "w": 88,
+                "h": 88
+            },
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 88,
+                "h": 88
+            },
+            "sourceSize": {
+                "w": 88,
+                "h": 88
+            }
+        },
+        "plops_085.png": {
+            "frame": {
+                "x": 632,
+                "y": 632,
+                "w": 88,
+                "h": 88
+            },
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 88,
+                "h": 88
+            },
+            "sourceSize": {
+                "w": 88,
+                "h": 88
+            }
+        },
+        "plops_080.png": {
+            "frame": {
+                "x": 632,
+                "y": 722,
+                "w": 88,
+                "h": 88
+            },
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 88,
+                "h": 88
+            },
+            "sourceSize": {
+                "w": 88,
+                "h": 88
+            }
+        },
+        "plops_081.png": {
+            "frame": {
+                "x": 632,
+                "y": 812,
+                "w": 88,
+                "h": 88
+            },
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 88,
+                "h": 88
+            },
+            "sourceSize": {
+                "w": 88,
+                "h": 88
+            }
+        },
+        "plops_092.png": {
+            "frame": {
+                "x": 632,
+                "y": 902,
+                "w": 88,
+                "h": 88
+            },
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 88,
+                "h": 88
+            },
+            "sourceSize": {
+                "w": 88,
+                "h": 88
+            }
+        },
+        "plops_093.png": {
+            "frame": {
+                "x": 722,
+                "y": 2,
+                "w": 88,
+                "h": 88
+            },
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 88,
+                "h": 88
+            },
+            "sourceSize": {
+                "w": 88,
+                "h": 88
+            }
+        },
+        "plops_094.png": {
+            "frame": {
+                "x": 722,
+                "y": 92,
+                "w": 88,
+                "h": 88
+            },
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 88,
+                "h": 88
+            },
+            "sourceSize": {
+                "w": 88,
+                "h": 88
+            }
+        },
+        "plops_095.png": {
+            "frame": {
+                "x": 722,
+                "y": 182,
+                "w": 88,
+                "h": 88
+            },
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 88,
+                "h": 88
+            },
+            "sourceSize": {
+                "w": 88,
+                "h": 88
+            }
+        },
+        "plops_097.png": {
+            "frame": {
+                "x": 722,
+                "y": 272,
+                "w": 88,
+                "h": 88
+            },
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 88,
+                "h": 88
+            },
+            "sourceSize": {
+                "w": 88,
+                "h": 88
+            }
+        },
+        "plops_098.png": {
+            "frame": {
+                "x": 722,
+                "y": 362,
+                "w": 88,
+                "h": 88
+            },
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 88,
+                "h": 88
+            },
+            "sourceSize": {
+                "w": 88,
+                "h": 88
+            }
+        },
+        "plops_091.png": {
+            "frame": {
+                "x": 722,
+                "y": 452,
+                "w": 88,
+                "h": 88
+            },
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 88,
+                "h": 88
+            },
+            "sourceSize": {
+                "w": 88,
+                "h": 88
+            }
+        },
+        "plops_104.png": {
+            "frame": {
+                "x": 722,
+                "y": 542,
+                "w": 88,
+                "h": 88
+            },
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 88,
+                "h": 88
+            },
+            "sourceSize": {
+                "w": 88,
+                "h": 88
+            }
+        },
+        "plops_105.png": {
+            "frame": {
+                "x": 722,
+                "y": 632,
+                "w": 88,
+                "h": 88
+            },
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 88,
+                "h": 88
+            },
+            "sourceSize": {
+                "w": 88,
+                "h": 88
+            }
+        },
+        "plops_103.png": {
+            "frame": {
+                "x": 722,
+                "y": 722,
+                "w": 88,
+                "h": 88
+            },
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 88,
+                "h": 88
+            },
+            "sourceSize": {
+                "w": 88,
+                "h": 88
+            }
+        },
+        "plops_102.png": {
+            "frame": {
+                "x": 722,
+                "y": 812,
+                "w": 88,
+                "h": 88
+            },
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 88,
+                "h": 88
+            },
+            "sourceSize": {
+                "w": 88,
+                "h": 88
+            }
+        },
+        "plops_099.png": {
+            "frame": {
+                "x": 722,
+                "y": 902,
+                "w": 88,
+                "h": 88
+            },
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 88,
+                "h": 88
+            },
+            "sourceSize": {
+                "w": 88,
+                "h": 88
+            }
+        },
+        "plops_100.png": {
+            "frame": {
+                "x": 812,
+                "y": 2,
+                "w": 88,
+                "h": 88
+            },
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 88,
+                "h": 88
+            },
+            "sourceSize": {
+                "w": 88,
+                "h": 88
+            }
+        },
+        "plops_101.png": {
+            "frame": {
+                "x": 812,
+                "y": 92,
+                "w": 88,
+                "h": 88
+            },
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 88,
+                "h": 88
+            },
+            "sourceSize": {
+                "w": 88,
+                "h": 88
+            }
+        },
+        "plops_021.png": {
+            "frame": {
+                "x": 812,
+                "y": 182,
+                "w": 88,
+                "h": 88
+            },
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 88,
+                "h": 88
+            },
+            "sourceSize": {
+                "w": 88,
+                "h": 88
+            }
+        },
+        "plops_020.png": {
+            "frame": {
+                "x": 812,
+                "y": 272,
+                "w": 88,
+                "h": 88
+            },
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 88,
+                "h": 88
+            },
+            "sourceSize": {
+                "w": 88,
+                "h": 88
+            }
+        },
+        "plops_106.png": {
+            "frame": {
+                "x": 812,
+                "y": 362,
+                "w": 88,
+                "h": 88
+            },
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 88,
+                "h": 88
+            },
+            "sourceSize": {
+                "w": 88,
+                "h": 88
+            }
+        },
+        "plops_113.png": {
+            "frame": {
+                "x": 812,
+                "y": 452,
+                "w": 88,
+                "h": 88
+            },
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 88,
+                "h": 88
+            },
+            "sourceSize": {
+                "w": 88,
+                "h": 88
+            }
+        },
+        "plops_112.png": {
+            "frame": {
+                "x": 812,
+                "y": 542,
+                "w": 88,
+                "h": 88
+            },
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 88,
+                "h": 88
+            },
+            "sourceSize": {
+                "w": 88,
+                "h": 88
+            }
+        },
+        "plops_090.png": {
+            "frame": {
+                "x": 812,
+                "y": 632,
+                "w": 88,
+                "h": 88
+            },
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 88,
+                "h": 88
+            },
+            "sourceSize": {
+                "w": 88,
+                "h": 88
+            }
+        },
+        "plops_089.png": {
+            "frame": {
+                "x": 812,
+                "y": 722,
+                "w": 88,
+                "h": 88
+            },
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 88,
+                "h": 88
+            },
+            "sourceSize": {
+                "w": 88,
+                "h": 88
+            }
+        },
+        "plops_096.png": {
+            "frame": {
+                "x": 812,
+                "y": 812,
+                "w": 88,
+                "h": 88
+            },
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 88,
+                "h": 88
+            },
+            "sourceSize": {
+                "w": 88,
+                "h": 88
+            }
+        },
+        "plops_119.png": {
+            "frame": {
+                "x": 812,
+                "y": 902,
+                "w": 88,
+                "h": 88
+            },
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 88,
+                "h": 88
+            },
+            "sourceSize": {
+                "w": 88,
+                "h": 88
+            }
+        },
+        "plops_120.png": {
+            "frame": {
+                "x": 902,
+                "y": 2,
+                "w": 88,
+                "h": 88
+            },
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 88,
+                "h": 88
+            },
+            "sourceSize": {
+                "w": 88,
+                "h": 88
+            }
+        },
+        "plops_109.png": {
+            "frame": {
+                "x": 902,
+                "y": 92,
+                "w": 88,
+                "h": 88
+            },
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 88,
+                "h": 88
+            },
+            "sourceSize": {
+                "w": 88,
+                "h": 88
+            }
+        },
+        "plops_110.png": {
+            "frame": {
+                "x": 902,
+                "y": 182,
+                "w": 88,
+                "h": 88
+            },
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 88,
+                "h": 88
+            },
+            "sourceSize": {
+                "w": 88,
+                "h": 88
+            }
+        },
+        "plops_123.png": {
+            "frame": {
+                "x": 902,
+                "y": 272,
+                "w": 88,
+                "h": 88
+            },
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 88,
+                "h": 88
+            },
+            "sourceSize": {
+                "w": 88,
+                "h": 88
+            }
+        },
+        "plops_122.png": {
+            "frame": {
+                "x": 902,
+                "y": 362,
+                "w": 88,
+                "h": 88
+            },
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 88,
+                "h": 88
+            },
+            "sourceSize": {
+                "w": 88,
+                "h": 88
+            }
+        },
+        "plops_114.png": {
+            "frame": {
+                "x": 902,
+                "y": 452,
+                "w": 88,
+                "h": 88
+            },
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 88,
+                "h": 88
+            },
+            "sourceSize": {
+                "w": 88,
+                "h": 88
+            }
+        },
+        "plops_115.png": {
+            "frame": {
+                "x": 902,
+                "y": 542,
+                "w": 88,
+                "h": 88
+            },
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 88,
+                "h": 88
+            },
+            "sourceSize": {
+                "w": 88,
+                "h": 88
+            }
+        },
+        "plops_121.png": {
+            "frame": {
+                "x": 902,
+                "y": 632,
+                "w": 88,
+                "h": 88
+            },
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 88,
+                "h": 88
+            },
+            "sourceSize": {
+                "w": 88,
+                "h": 88
+            }
+        },
+        "plops_124.png": {
+            "frame": {
+                "x": 902,
+                "y": 722,
+                "w": 88,
+                "h": 88
+            },
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 88,
+                "h": 88
+            },
+            "sourceSize": {
+                "w": 88,
+                "h": 88
+            }
+        },
+        "plops_125.png": {
+            "frame": {
+                "x": 902,
+                "y": 812,
+                "w": 88,
+                "h": 88
+            },
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 88,
+                "h": 88
+            },
+            "sourceSize": {
+                "w": 88,
+                "h": 88
+            }
+        },
+        "plops_116.png": {
+            "frame": {
+                "x": 902,
+                "y": 902,
+                "w": 88,
+                "h": 88
+            },
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 88,
+                "h": 88
+            },
+            "sourceSize": {
+                "w": 88,
+                "h": 88
+            }
+        },
+        "plops_111.png": {
+            "frame": {
+                "x": 2,
+                "y": 992,
+                "w": 88,
+                "h": 88
+            },
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 88,
+                "h": 88
+            },
+            "sourceSize": {
+                "w": 88,
+                "h": 88
+            }
+        },
+        "plops_117.png": {
+            "frame": {
+                "x": 92,
+                "y": 992,
+                "w": 88,
+                "h": 88
+            },
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 88,
+                "h": 88
+            },
+            "sourceSize": {
+                "w": 88,
+                "h": 88
+            }
+        },
+        "plops_118.png": {
+            "frame": {
+                "x": 182,
+                "y": 992,
+                "w": 88,
+                "h": 88
+            },
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 88,
+                "h": 88
+            },
+            "sourceSize": {
+                "w": 88,
+                "h": 88
+            }
+        },
+        "plops_107.png": {
+            "frame": {
+                "x": 272,
+                "y": 992,
+                "w": 88,
+                "h": 88
+            },
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 88,
+                "h": 88
+            },
+            "sourceSize": {
+                "w": 88,
+                "h": 88
+            }
+        },
+        "plops_108.png": {
+            "frame": {
+                "x": 362,
+                "y": 992,
+                "w": 88,
+                "h": 88
+            },
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 88,
+                "h": 88
+            },
+            "sourceSize": {
+                "w": 88,
+                "h": 88
+            }
+        }
+    },
+    "meta": {
+        "app": "http://www.mokgames.com/texturepacker/",
+        "version": "1.0",
+        "image": "spritesheet.png",
+        "format": "RGBA8888",
+        "size": {
+            "w": 1024,
+            "h": 2048
+        },
+        "scale": 1
+    }
+}

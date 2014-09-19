@@ -1,0 +1,168 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+	<title>sandbox</title>
+	<style>
+		body {
+			margin: 0;
+			padding: 0;
+			background-color: #000;
+			color: #FFF;
+		}
+		canvas {
+			border: 1px solid white;
+		}
+	</style>
+	<script src="js/pixi.js"></script>
+	<script src="http://cdnjs.cloudflare.com/ajax/libs/gsap/latest/TweenMax.min.js"></script>
+	<script src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
+</head>
+<body>
+	
+	<script>
+
+	// FPS calculation
+	var fps = {
+		startTime : 0,
+		frameNumber : 0,
+		getFPS : function(){
+			this.frameNumber++;
+			var d = new Date().getTime(),
+				currentTime = ( d - this.startTime ) / 1000,
+				result = Math.floor( ( this.frameNumber / currentTime ) );
+
+			if( currentTime > 1 ){
+				this.startTime = new Date().getTime();
+				this.frameNumber = 0;
+			}
+			return result;
+
+		}	
+	};
+
+	// loader
+	var assetsToLoader = [ "sprites/turtle/spritesheet.json", "sprites/turtle/spritesheet.png"];
+	loader = new PIXI.AssetLoader(assetsToLoader);
+	loader.onComplete = onAssetsLoaded;
+	loader.load();
+
+	// setup pixi
+	var stage = new PIXI.Stage(0x66FF99);
+	var renderer = PIXI.autoDetectRenderer(768, 448);
+
+	document.body.appendChild(renderer.view);
+
+	// make this a class to handle animations
+	// should be described in json
+	var turtleObj = new PIXI.DisplayObjectContainer();
+	var animations = ["idle", "walk", "attack"];
+
+	function onAssetsLoaded()
+	{
+		var idleAnimation = [];
+		var walkAnimation = [];
+		var attackAnimation = [];
+
+		idleAnimation.push(PIXI.Texture.fromFrame("stand1.png"));
+		walkAnimation.push(PIXI.Texture.fromFrame("walk1.png"));
+		walkAnimation.push(PIXI.Texture.fromFrame("walk2.png"));
+		walkAnimation.push(PIXI.Texture.fromFrame("walk3.png"));
+		attackAnimation.push(PIXI.Texture.fromFrame("attack1.png"));
+		attackAnimation.push(PIXI.Texture.fromFrame("attack2.png"));
+		attackAnimation.push(PIXI.Texture.fromFrame("attack3.png"));
+
+		var turtleIdleClip = new PIXI.MovieClip(idleAnimation);
+		var turtleWalkClip = new PIXI.MovieClip(walkAnimation);
+		var turtleAttackClip = new PIXI.MovieClip(attackAnimation);
+
+		turtleIdleClip.visible = true;
+		turtleWalkClip.animationSpeed = 0.15;
+		turtleWalkClip.visible = false;
+		turtleAttackClip.animationSpeed = 0.15;
+		turtleAttackClip.visible = false;
+
+		turtleObj.addChild(turtleIdleClip); // add ani 1
+		turtleObj.addChild(turtleWalkClip); // add ani 2
+		turtleObj.addChild(turtleAttackClip); // add ani 3
+
+		turtleObj.position.x = 768 / 2;
+		turtleObj.position.y = 448 / 2;
+		stage.addChild(turtleObj);
+
+		requestAnimFrame( animate );
+	}
+
+	function animate() {
+		requestAnimFrame( animate );
+		renderer.render(stage);
+	}
+	
+	function frameTimer() {
+		setTimeout( frameTimer,1000 / 60 );
+		var f = document.querySelector("#fps");
+		f.innerHTML = "right arrow to walk, space to attack - fps: " + fps.getFPS();
+	}
+	
+	// KEY EVENTS
+	document.addEventListener('keydown', function(event) {
+		if(event.keyCode == 32) { // space
+	    	if (!turtleObj.getChildAt(2).playing) { // if it's not playing play it
+	    		turtleObj.getChildAt(2).visible = true;
+	    		turtleObj.getChildAt(2).gotoAndPlay(0); // stop it
+
+	    		// turn everything else off
+	    		turtleObj.getChildAt(0).visible = false;
+	    		turtleObj.getChildAt(1).visible = false;
+	    	}
+	    }
+	    
+	    if(event.keyCode == 37) { // L
+	    }
+
+	    else if(event.keyCode == 39) { // R
+	    	if (!turtleObj.getChildAt(1).playing) { // if it's not playing play it
+	    		turtleObj.getChildAt(1).visible = true;
+	    		turtleObj.getChildAt(1).gotoAndPlay(0); // stop it
+
+	    		// turn everything else off
+	    		turtleObj.getChildAt(0).visible = false;
+	    	}
+
+	    }
+	});
+	document.addEventListener('keyup', function(event) {
+	    if(event.keyCode == 32) { // space
+	    	turtleObj.getChildAt(1).visible = false;
+	    	turtleObj.getChildAt(2).visible = false;
+	    	turtleObj.getChildAt(1).stop();
+	    	turtleObj.getChildAt(2).stop();
+
+	    	turtleObj.getChildAt(0).visible = true;
+	    }
+	    
+	    if(event.keyCode == 37) { // L
+	    }
+
+	    else if(event.keyCode == 39) { // R
+	    	turtleObj.getChildAt(1).visible = false;
+	    	turtleObj.getChildAt(2).visible = false;
+	    	turtleObj.getChildAt(1).stop();
+	    	turtleObj.getChildAt(2).stop();
+
+	    	turtleObj.getChildAt(0).visible = true;
+
+	    }
+	});
+
+	</script>
+
+	<div id="fps">yo</div>
+
+	<script>
+
+		frameTimer();
+
+	</script>
+
+</body>
+</html>
